@@ -23,7 +23,10 @@ pageClass: device-page
 
 
 <!-- Notes BEGIN: You can edit here. Add "## Notes" headline if not already present. -->
-
+### Pairing
+To set the device in pairing mode, hold the push putton until a red light is blinking. When it is blinking red every second indicates that the device is in pairing mode.
+If the devices has been connected to another coordinator before normal pairing may not work and the device need a reset.
+To perform the reset hold the button until the light starts blinking rapidly, this wil happen after one red blink followed by two red blinks.
 
 <!-- Notes END: Do not edit below this line -->
 
